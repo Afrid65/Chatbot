@@ -11,4 +11,4 @@ Key Features:
 Preprocessed and tokenized text data using NLTK (lemmatization, stop-word removal, etc.).
 Built a neural network model with TensorFlow for intent recognition and response generation.
 Trained the model on a custom dataset of intents and conversational patterns.
-
+Implemented a user-friendly command-line interface for real-time user interaction.
