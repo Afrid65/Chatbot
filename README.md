@@ -16,3 +16,4 @@ Applied bag-of-words model and one-hot encoding for input representation.
 
 Technologies Used:
 Python, NLTK, TensorFlow, NumPy, JSON.
+
