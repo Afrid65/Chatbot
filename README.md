@@ -18,4 +18,5 @@ Technologies Used:
 Python, NLTK, TensorFlow, NumPy, JSON.
 
 Outcome:
+Successfully created a rule-based
 
