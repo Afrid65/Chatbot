@@ -30,6 +30,7 @@ Applied bag-of-words model and one-hot encoding for input representation.
 Technologies Used:
 Python, NLTK, TensorFlow, NumPy, JSON.
 
+
 Outcome:
 Successfully created a rule-based and ML-enhanced chatbot capable of answering FAQs, with potential for extension into web or messaging platforms.
 This project showcases a foundational understanding of NLP, deep learning, and AI-based conversational systems.
