@@ -16,7 +16,6 @@ Key Features:
 
 
 
-
 Preprocessed and tokenized text data using NLTK (lemmatization, stop-word removal, etc.).
 
 Built a neural network model with TensorFlow for intent recognition and response generation.
