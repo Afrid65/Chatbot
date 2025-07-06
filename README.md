@@ -17,7 +17,6 @@ The chatbot is capable of understanding user queries and responding appropriatel
 
 
 
-
 Key Features:
 
 
