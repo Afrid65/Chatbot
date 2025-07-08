@@ -27,7 +27,6 @@ Technologies Used:
 Python, NLTK, TensorFlow, NumPy, JSON.
 
 
-
 Outcome:
 
 Successfully created a rule-based and ML-enhanced chatbot capable of answering FAQs, with potential for extension into web or messaging platforms.
