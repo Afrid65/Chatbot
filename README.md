@@ -7,7 +7,6 @@ Developed an intelligent chatbot application using Python, integrated with Natur
 The chatbot is capable of understanding user queries and responding appropriately based on intent classification.
 
 Key Features:
-
 Preprocessed and tokenized text data using NLTK (lemmatization, stop-word removal, etc.).
 Built a neural network model with TensorFlow for intent recognition and response generation.
 Trained the model on a custom dataset of intents and conversational patterns.
