@@ -25,13 +25,7 @@ Successfully created a rule-based and ML-enhanced chatbot capable of answering F
 This project showcases a foundational understanding of NLP, deep learning, and AI-based conversational systems.
 
 
+front end
 
 
-
-
-
-
-
-
-
-
+back end
