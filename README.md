@@ -15,7 +15,7 @@ Technologies Used:
 Python,
 NLTK,
 TensorFlow,
-NumPy, 
+NumPy,
 JSON.
 
 Outcome:
