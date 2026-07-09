@@ -12,7 +12,7 @@ Implemented a user-friendly command-line interface for real-time user interactio
 Applied bag-of-words model and one-hot encoding for input representation.
 
 Technologies Used:
-Python,
+Python
 NLTK,
 TensorFlow,
 NumPy,
